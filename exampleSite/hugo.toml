@@ -19,11 +19,12 @@ pagerSize = 6
 [params]
 author = "Ran Tao"
 description = "Ran Tao — research, publications, and projects"
-keywords = "physics, biophysics, data science, research"
+keywords = "Physics, Soft Matter, Biophysics, Data Science"
 info = [
   "Ph.D. Candidate in Physics, University of Pennsylvania (2021–2027)",
   "M.A. Statistics & Data Science, Wharton School (2024–2027)",
-  "B.S. Physics (Highest Honors) & Applied Mathematics, Emory University (2018–2021)"
+  "B.S. Physics (Highest Honors), Emory University (2018–2021)",
+  "B.S. Applied Mathematics, Emory University (2018–2021)"
 ]
 avatarURL = "images/avatar.jpg"   # put your headshot at exampleSite/static/images/avatar.jpg
 dateFormat = "January 2, 2006"
@@ -61,7 +62,7 @@ url = "https://scholar.google.com/citations?hl=en&user=p3M6lMgAAAAJ&view_op=list
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 3
-url = "https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"
+url = "https://www.linkedin.com/in/ran-tao-890954230/"
 
 [[params.social]]
 name = "RSS"
