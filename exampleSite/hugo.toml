@@ -1,5 +1,7 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "https://rtao21.github.io/hugo-coder/"  # <-- include trailing slash
+canonifyURLs = true
+
+title = "Ran Tao"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
